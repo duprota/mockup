@@ -1,4 +1,4 @@
-mockup
+Salon Scheduling
 ======
 
 1. As a visitor, I want to be able to create my account
