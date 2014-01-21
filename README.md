@@ -15,3 +15,6 @@ Salon Scheduling
 11. As a vendor user, I want to be able to automatically confirm dates set by clients
 10. As a vendor user, I want to be able to check my stylists sechedule for a defined period 
 11. As an administrator, I want to be able to input new salons
+
+Link for the Domain Modeling
+https://docs.google.com/spreadsheet/ccc?key=0AkSnIi_7QwqZdDZ4RlJGOXBFRWpsLWhJdWJsek9UZVE&usp=sharing
